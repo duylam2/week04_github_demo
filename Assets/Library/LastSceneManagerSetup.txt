@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/College/Sophomore - 2/Intermediate Game Dev/unity projects/treasure_game/Assets/Scenes/treasureGame.unity
+  isLoaded: 1
+  isActive: 1
